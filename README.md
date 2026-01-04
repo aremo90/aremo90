@@ -45,7 +45,7 @@ I am a passionate Full Stack Developer with a strong foundation in the Microsoft
 | **[Quote](https://github.com/aremo90/Quote)** | HTML, CSS, JS, Bootstrap | Interactive gaming interface |
 | **[Mealify](YOUR_LINK_HERE)** | HTML, CSS | Responsive restaurant website |
 | **[Fokir](https://github.com/aremo90/Fokir)** | HTML, CSS | Personal portfolio website |
-| **[Login-System](YOUR_LINK_HERE)** | JavaScript | Secure login implementation |
+| **[Weather](https://github.com/aremo90/Weather)** | JavaScript | API integration|
 
 #### ⚙️ Backend Projects
 | Project | Stack | Key Features |
